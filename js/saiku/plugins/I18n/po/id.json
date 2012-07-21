@@ -1,0 +1,23 @@
+{
+    "New query": "Query Baru",
+    "Open query": "Buka Query",
+    "Save query": "Simpan Query",
+    "Delete query": "Hapus Query",
+    "Logout": "Logout",
+    "About": "Tentang",
+    "Run query": "Jalankan Query",
+    "Toggle fields": "",
+    "Automatic execution": "",
+    "Non-empty": "",
+    "Swap axis": "",
+    "Show MDX" : "Tampilkan MDX",
+    "Export XLS": "Ekspor XLS",
+    "Export CSV": "Ekspor CSV",
+    "Drill Through": "",
+    "Cubes": "",
+    "Dimensions": "",
+    "Measures": "",
+		"Rows": "Baris",
+		"Filter": "Saringan",
+		"Columns": "Kolom"
+}
